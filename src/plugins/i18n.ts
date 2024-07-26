@@ -33,6 +33,7 @@ const unicodeHangul = [
   "U+A960-A97F",
   "U+AC00-D7AF",
   "U+D7B0-D7FF",
+  "U+266A"
 ].join(",");
 
 const fonts = [
